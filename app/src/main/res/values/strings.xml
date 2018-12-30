@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">YouTubeSearch_cardView</string>
+    <string name="search_youtube">YouTube search</string>
+    <string name="search_youtube_keywords">Keywords input</string>
+    <string name="search_youtube_btn">search</string>
+</resources>
